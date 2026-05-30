@@ -30,4 +30,4 @@ Currently focused on cracking placements.
 
 GitHub - https://github.com/parithym
 
-LinkedIn -
+LinkedIn - https://www.linkedin.com/in/parithy-mahalingam/
